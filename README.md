@@ -1,6 +1,9 @@
 # Sales_Data_Analysis
 Analysis Sales of a USA Dataset through creating an 'Sales Template' Power Bi Report and used SQL SERVER for creating a data through Stored Procedure and get some insights like California Sale in 2020 and January Month , Top 5 customers , Total Revenue , Total Quantity Sold etc.
 
+![](file:///C:/Users/DELL/AppData/Local/Temp/Power%20BI%20Desktop/print-job-88e7ccf6-3450-47a8-83f3-027e2cd86f1d/Sales_Data_Analysis.pdf)
+
+
 ## What is Sales Analytics?
 
 Sales analytics is the practice of generating insights from sales data, trends, and metrics to set targets and forecast future sales performance. The best practice for sales analytics is to closely tie all activities to determine revenue outcomes and set objectives for your sales team.
