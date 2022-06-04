@@ -5,7 +5,7 @@ Analysis Sales of a USA Dataset through creating an 'Sales Template' Power Bi Re
 ![](https://github.com/naveen12334/Sales_Data_Analysis/blob/main/Report_Image.PNG)
 
 # Problem Statement
-Business didn't understand the data and the ups and downs which happened in the business from last 2 year so they approach an Power BI Report to take some insights from the data for the better understanding of Company Product Sales Data.
+Business didn't understand the data and the ups and downs which happened in the business from last 2 year so they approach an Power BI Report to take some insights from the data for the better understanding of Company Products Sales.
 
 ## Sales Analytics Description
 
